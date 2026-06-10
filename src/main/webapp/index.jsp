@@ -1,8 +1,8 @@
 <html>
 <head>
-    <title>Hello World</title>
+    <title>Ajay is King</title>
 </head>
 <body>
-    <h1>Hello World from Jenkins CI/CD</h1>
+    <h1>Project Successfully Run.../CD</h1>
 </body>
 </html>
